@@ -30,7 +30,6 @@ public class CenturyAndLeap
 
     public static void Main()
     {        
-
         Console.WriteLine("Example");
         Console.Write("Input Year : ");
         int year = Convert.ToInt32(Console.ReadLine());
